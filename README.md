@@ -1,4 +1,4 @@
-#Smart Delivery Box <br/> 
+**Smart Delivery Box** <br/> 
 Creation of a prototype of a delivery box, able to open itself automatically when the QR code uniquely generated is shown. When the parcel has been delivered, the box automatically closes itself, sending a message to the box owner, showing infos about date and time delivery.
 In case of tampering the user will be alerted, receiving a message on his smartphone.
 The system is self-sustainable thanks to solar panels giving energy to a battery, used to power the system core, the Raspberry Pi.
