@@ -8,8 +8,8 @@ The system is self-sustainable thanks to solar panels giving energy to a battery
 Sergio Abascià, Gianluca Azzollini, Alberto Carlo  Maria Mancino
 
 **Developers** <br/>
-Sergio Abascià
-Gianluca Azzollini  
+Sergio Abascià <br/>
+Gianluca Azzollini <br/>
 Alberto Carlo Maria Mancino
 
 **Contacts** <br/>
