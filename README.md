@@ -18,4 +18,4 @@ sergio05.abascia@gmail.com <br/>
 azzollinigianluca@gmail.com <br/>
 alberto.mancino94@gmail.com <br/>
 
-<img src="https://github.com/azzollinigianluca95/Smart-Delivery-Box/blob/master/Smart%20Delivery%20Box%20Project/Smart_Delivery_Box.jpg" width"380">
+<img src="https://github.com/azzollinigianluca95/Smart-Delivery-Box/blob/master/Smart%20Delivery%20Box%20Project/Smart_Delivery_Box.jpg" width="380">
