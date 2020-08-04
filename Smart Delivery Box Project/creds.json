@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smartdeliverybox",
+  "private_key_id": "0cf4bdb859ea6a91c1ab805fb641b1b3dc68cc32",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZeypVjjkpIHQm\nJosXq+r5lwS2E6kVroLGYDm2gGYnVlHBRTNyvGJYhvoChwWHrq72ZLxYngJqAS6Y\nC1GydYpxBEmy2kMtijotlGHvQloMYB3twTdK4IoP81hrFsq6x0iIq0df/IWbCdWG\niwmg8maer/Crd1umd4e+wqv2rJdIIko8mEHgQPzMQzAGV23lgWVeY9UFAXqraprv\n8Rn7UdHbK8y+qG1WTxfZYbOMBj2VeOz1g5TP/Gd+OH7puSbbwpvDMAFw4gyObK2z\nJbTxyA8YhmkTMFTegX47IrLbAOr08AukazG8ac6NTmmytOMrmsV3Bm37uEPiqftL\nfuclQZu1AgMBAAECggEAFa5qeo+Oz5qADeuf9oYYuY114urAFgoC+1cYkAlvZNsy\nzWSjMfAezHa01qqQQ2yP1srAOJyJpsPn+x6OOfGUzwZWCuf+WW6PbWTquMvcwKbL\nU4zZ7L/vgPVVZjtgBCamvnfDq3GWxiILgegeQhg8Guqryu0fi1KTYIVLmZsj+9J0\nENfeb8+48NRg9Ga6FPR6b9doBH9EvzZYUsFiLFpGmZwCMa9RnHHe0upcmy87n5KM\n9fM8dvlpjUOaT+jvPA1By/ap5DBYoId5av555XiYUlCbz5HG/WBkHYOXfTq9yUjP\nj2WS4laCFUHpuXj1UXo3x1bwT+KCeOxreZyuKPk0uQKBgQDWeC68t36JcsqMf5My\nyNYhCH1e9Jn+orNZGz0uCP/K4HgT9nRQfjQebY0Q9+WWvFsdK0+ZaQ/YGkyR3vNu\nu2ejMXKU0uFlLHcdiSMSYk0aML17dhjhVFOWQCVzZ21/Peu8ggBQx4t0WRarqYwY\nmiLklPLc+1gGSm5sNyoRBw6hKwKBgQC3M6EevvWkDn+c7Hp/edcHYdmiebjNNNFf\njcGqo/FiuyQ28BdDggMaeJKr06z9YDfYSvG3ie9BZMZGpbLGF0WgxNPhq9JlxLqA\nHPYqxkXCqiaqBx6uPX2OqvkgrhSjErGNPAwGgpKvfQ12mcJY6E7A0b33WHOka2mB\nTtaVsu2GnwKBgHsHiHATpw/7/LtqN6urUEK01w6QrIJJHS8hlBADc5ETAW8aMxE1\nxHosB/9S5a55sJ7kCI6NmVwzgfcv+V9tO/9+zycWbdwXDOGxmJ/kKiy7Bwd68Lza\nHfUUKSexjjuu7rs9rCaqwZHlxT6GTWqTiS6tT0B7IrzBF+UWJBiOftLvAoGBAJ8+\nwrPeG9myPJ0kNcrvFsm09Z+0nL3LRp//sbNpdF50+6LBigdFUPtGiX/QrNNGOuTJ\nKFl5Db7TIUKxr7de7Ug1L1Q/rdCGc/L+ucAuvt7aVmd/btzYWHaWCZ2tlAS4MBvr\ncSyLfYQLeJN6TiRIMoSLDMyfV045i+k5pW9UrAFTAoGAVMmibZd5tk0P79A28y2e\nfd1uE2Bpl8+FqBcKUeohu+6grre7daphzBK106C3NrNxffUJ42E6HT9MOUhO4+zL\nWTI9ger8P/cbre7xNU0kMEP51TyIaC9kbgWmyU9dYzrrX1jUVHrPLnc7SOR1q9qF\nzsuSNHdKSWli0Jl7UhLyRVg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "alberto@smartdeliverybox.iam.gserviceaccount.com",
+  "client_id": "104697376502268272726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/alberto%40smartdeliverybox.iam.gserviceaccount.com"
+}
